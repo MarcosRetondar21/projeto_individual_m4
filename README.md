@@ -29,18 +29,25 @@ O objetivo deste relatório é fornecer uma visão geral do progresso diário do
 
 ## Análise Exploratória
 
-O relatório utilizará gráficos de barras para visualizar os dados, proporcionando uma compreensão visual mais clara do progresso do projeto. Os gráficos apresentarão a quantidade de Horas Trabalhadas e Bugs Corrigidos por dia, além da quantidade de Tarefas Concluídas e a Produtividade Diária da equipe.
-
+O relatório utilizará gráfico de barras para visualizar os dados, proporcionando uma compreensão visual mais clara do progresso do projeto. O gráfico apresentará a quantidade de Horas Trabalhadas e Bugs Corrigidos por dia.
 ## Como Executar o Código
 
-Para gerar o relatório e visualizar os gráficos, é necessário utilizar um ambiente que suporte a execução de código Python, como o Google Colab, Jupyter Notebook ou qualquer outra IDE Python.
+Para gerar o relatório e visualizar o gráfico, é necessário utilizar um ambiente que suporte a execução de código Python, como o Google Colab, Jupyter Notebook ou qualquer outra IDE Python.
 
-O código fornecido no notebook realiza a análise exploratória dos dados, calcula as métricas necessárias e gera os gráficos de barras para visualização.
+O código fornecido no notebook realiza a análise exploratória dos dados, calcula as métricas necessárias e gera o gráfico de barras para visualização.
 
 ## Conclusão
 
 O relatório de progresso diário é uma ferramenta essencial para o acompanhamento e gerenciamento de projetos de desenvolvimento de software. Com base nos dados coletados, a empresa poderá tomar decisões informadas, identificar possíveis áreas de melhoria e garantir o sucesso do projeto.
 
+
+## Contato
+
+Em caso de dúvidas ou interesse em saber mais sobre meu trabalho, fique à vontade para entrar em contato através do meu perfil do LinkedIn:
+
+[Meu Perfil do LinkedIn](https://www.linkedin.com/in/marcos-retondar/))
+
+Obrigado por revisar o relatório. Estou à disposição para qualquer esclarecimento adicional.
+
 Fim do Relatório.
 
-Caso tenha alguma dúvida ou necessite de mais informações, estou à disposição para ajudar.
