@@ -20,6 +20,7 @@ dados = {
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-yellow)
 ![NumPy](https://img.shields.io/badge/NumPy-1.x-blueviolet)
 ![Pandas](https://img.shields.io/badge/Pandas-1.x-green)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-orange)
 
 
 ## Objetivo
