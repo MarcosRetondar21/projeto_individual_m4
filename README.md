@@ -14,6 +14,13 @@ dados = {
     'Tarefas Concluidas': [5, 4, 6, 4, 5, 3, 2]
 }
 ```
+## Tecnologias Utilizadas
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-yellow)
+![NumPy](https://img.shields.io/badge/NumPy-1.x-blueviolet)
+![Pandas](https://img.shields.io/badge/Pandas-1.x-green)
+
 
 ## Objetivo
 
